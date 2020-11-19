@@ -1,0 +1,20 @@
+[class*="col-"] {
+
+  height: 50px;
+}
+
+.red{
+  background-color: red;
+}
+.brown{
+  background-color: #A0522D;
+}
+.pink{
+  background-color: #F4A460;
+}
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: blue
+}
